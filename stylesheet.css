@@ -1,5 +1,10 @@
 /* styles.css */
 
-body {
+head, body {
     background-color: lightblue;
+}
+
+h1 {
+    font-size: 30px;
+
 }

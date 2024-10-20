@@ -5,6 +5,14 @@ head, body {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 60px;
+}
 
+div {
+    border: 1px solid red;
+    font-color: green;
+}
+
+.special {
+    background: yellow;
 }
